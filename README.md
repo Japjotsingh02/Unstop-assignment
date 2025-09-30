@@ -23,7 +23,7 @@ This project demonstrates clean code practices, reusable components, responsive 
 - **TypeScript**  
 - **Tailwind CSS**  
 - **React Router v6**  
-- **Axios (or Fetch)** for API calls  
+- **Axios** for API calls  
 
 ---
 
