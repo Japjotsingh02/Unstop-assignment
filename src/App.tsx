@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 
 const LoginForm = lazy(() => import("./pages/auth/LoginForm"));
-const Home = lazy(() => import("./pages/main/home"));
+const Home = lazy(() => import("./pages/main/Home"));
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(
